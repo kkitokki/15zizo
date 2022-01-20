@@ -4,6 +4,7 @@
 #     else :
 #         answer='odd'
 #     return answer
+#처
 
 
 def solution(num):
